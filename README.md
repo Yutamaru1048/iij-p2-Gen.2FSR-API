@@ -1,4 +1,4 @@
-# IIJ -p2-Gen.2FSR-API
+# IIJ P2 Gen.2 FSR-API
 TerraformでフレキシブルサーバリソースAPIを利用する
 
 IIJ P2 Gen.2 VPC のフレキシブルサーバリソースを Terraform で構築するための検証コードです。
